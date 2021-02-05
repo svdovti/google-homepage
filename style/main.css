@@ -45,7 +45,7 @@ main {
     border: 1px solid #90908F;
 }
 .bar:hover {
-    box-shadow: 1px 1px 3px 1px #90908F;
+    box-shadow: 1px 1px 10px 1px #90908F;
 }
 
 .mGlass {
