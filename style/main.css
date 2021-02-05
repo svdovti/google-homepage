@@ -53,8 +53,16 @@ main {
     height: 5%;
     position: relative;
     float: left;
-    top: 6px;
+    top: 4px;
     left: 10px;
+}
+.Mic {
+    width: 5%;
+    height: 5%;
+    position: relative;
+    float: right;
+    top: 4px;
+    right: 12px;
 }
 
 .searchBar {
